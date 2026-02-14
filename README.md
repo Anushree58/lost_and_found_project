@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="img" src="https://github.com/user-attachments/assets/81c3c894-ea08-4d03-90c4-143b04f87693" />
+
 Team Name:Tech Twins
 Team Memebers
    Member1: K Anushree -Lbs college of engineering
@@ -84,3 +86,8 @@ Simply open:
 
 index.html
 OR use Live Server in VS Code.
+
+<img width="378" height="477" alt="Screenshot 2026-02-14 081355" src="https://github.com/user-attachments/assets/86fd2643-f4f0-4c5e-9f0a-40ed5253fb92" />
+
+
+
